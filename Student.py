@@ -18,7 +18,7 @@ students=[
     {'username':'Juan',
     'points': 8},
     {'username':'Oscar',
-    'points': 8}
+    'points': 10}
 ]
 #METODOS PARA ADÑADIR ESTUDIANTES
 
